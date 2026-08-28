@@ -1,6 +1,6 @@
 (() => {
   if (window.__CHAOS__) {
-    console.log("😈 Chaos כבר פעיל!");
+    console.log("😈");
     return;
   }
 
